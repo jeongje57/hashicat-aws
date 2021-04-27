@@ -21,4 +21,4 @@ EOM
 
 echo "Script complete."
 
-Welcome to ${PREFIX}'s app. Replace this text with your own.
+Welcome to ${PREFIX}'s app. Replace this text with your own...
